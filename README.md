@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Michael Wenneson
 
-🚀 I'm a network engineer turned automation architect, with a passion for clean Python, efficient DevOps, and infrastructure that scales.
+🚀 I'm a network engineer turned automation expert, with a passion for clean Python, efficient DevOps, and infrastructure that scales.
 
 🧰 Tools of my trade:
 - Python, Ansible, Terraform
@@ -44,5 +44,5 @@
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/michaelwenneson](https://linkedin.com/in/michaelwenneson)
-- Personal Site: [wennson.io](https://wennson.io)
+- Personal Site: Coming Soon!
  
