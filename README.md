@@ -10,7 +10,6 @@
 🧠 Currently working on:
 - Automating Cisco-to-Meraki migrations via API
 - A dashboard for config diffing & lifecycle management
-- My own SaaS to help people manage their job hunt with AI
 
 🎯 My mission: *Make networking as automated, repeatable, and elegant as software dev.*
 
